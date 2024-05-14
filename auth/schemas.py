@@ -1,4 +1,3 @@
-
 from fastapi_users import schemas
 from typing_extensions import Optional
 
